@@ -6,5 +6,5 @@ These notebooks are designed as lessons, and are split into ~1 hour chunks
 # Table of Contents
 - [Intro To Python](Intro_To_Python.ipynb)
 - [Loops And Logic](Loops_And_Logic.ipynb)
-- [Arrays and Data Structures](Data_Sturctures.ipynb)
+- [Arrays and Data Structures](Data_Structures.ipynb)
 - [Functions and Classes](Functions_And_Classes.ipynb)
