@@ -6,3 +6,4 @@ TODO:
 - _write_ daily challenges
 - seriousness, serious topics
 - make sure that its light
+- ADD DICTIONARIES AT THE START OF LESSONS LPLEASE
