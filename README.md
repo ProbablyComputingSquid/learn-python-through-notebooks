@@ -5,6 +5,7 @@
 This is a series of interactive .ipynb notebooks (with exercises!) designed to help you speedrun a basic knowledge of Python. Written for my high school programming club
 These notebooks are designed as lessons, and are split into ~1 hour chunks. You can go into these lessons with as little knowledge about programming as you want.
 You can find a live demo on [mybinder](https://mybinder.org/v2/gh/ProbablyComputingSquid/learn-python-through-notebooks/HEAD?urlpath=%2Fdoc%2Ftree%2FREADME.md)
+If you're reading this on mybinder, click on the folder icon to the left to peruse the notebooks. Please follow them in order, because then it makes more sense. 
 
 # Table of Contents
 - [Intro To Python](Intro_To_Python.ipynb)
